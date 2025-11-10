@@ -51,29 +51,7 @@ elif choice == '2':
     print("Hexadecimal Value:", octal_to_hexadecimal(octal))
 else:
     print("Invalid choice! Please enter 1 or 2.")
-
-Sample Output 1:
-=== Number System Conversion ===
-1. Binary to Decimal
-2. Octal to Hexadecimal
-Enter your choice (1 or 2): 1
-Enter a Binary Number: 101101
-Decimal Value: 45
-Sample Output 2:
-=== Number System Conversion ===
-1. Binary to Decimal
-2. Octal to Hexadecimal
-Enter your choice (1 or 2): 2
-Enter an Octal Number: 175
-Hexadecimal Value: 7D
-Sample Output 3 (Invalid Input):
-=== Number System Conversion ===
-1. Binary to Decimal
-2. Octal to Hexadecimal
-Enter your choice (1 or 2): 1
-Enter a Binary Number: 1021
-Decimal Value: Invalid Binary Number!
-
+    
 Result:
 
 Thus, the Python program was successfully developed and executed to:
