@@ -31,14 +31,5 @@ print("Test Marks:", marks)
 print("Best Two Marks:", best_two)
 print("Best of Two Test Average:", round(average, 2))
 
-output:
-Enter marks for Test 1: 67
-Enter marks for Test 2: 89
-Enter marks for Test 3: 76
-=== RESULT ===
-Test Marks: [89.0, 76.0, 67.0]
-Best Two Marks: [89.0, 76.0]
-Best of Two Test Average: 82.5
-
 Result:
 Thus, the Python program was successfully executed to calculate the best of two test average marks out of three test marks entered by the user.
