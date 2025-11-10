@@ -35,22 +35,6 @@ print("\nDigit Occurrence Count:")
 for digit, count in sorted(digit_count.items()):
     print(f"Digit {digit}: {count} time(s)")
   
-Sample Output 1:
-Enter a number: 1221
-The number is a Palindrome.
-Digit Occurrence Count:
-Digit 1: 2 time(s)
-Digit 2: 2 time(s)
-Sample Output 2:
-Enter a number: 12345
-The number is NOT a Palindrome.
-Digit Occurrence Count:
-Digit 1: 1 time(s)
-Digit 2: 1 time(s)
-Digit 3: 1 time(s)
-Digit 4: 1 time(s)
-Digit 5: 1 time(s)
-
 Result:
 Thus, the Python program was successfully executed to:
 Check whether a given number is a palindrome or not, and
