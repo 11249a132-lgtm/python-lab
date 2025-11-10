@@ -33,17 +33,6 @@ try:
         fibonacci(n)
 except ValueError:
     print("Error: Invalid input! Please enter an integer value.")
-
-Sample Output 1:
-Enter the number of terms (N > 0): 7
-Fibonacci Sequence:
-0 1 1 2 3 5 8
-Sample Output 2:
-Enter the number of terms (N > 0): 0
-Error: Please enter a positive integer greater than 0.
-Sample Output 3:
-Enter the number of terms (N > 0): hello
-Error: Invalid input! Please enter an integer value.
-
+    
 Result:
 Thus, the Python program was successfully executed to generate the Fibonacci sequence up to N terms using a function and display an error message when the input does not satisfy the condition N > 0.
